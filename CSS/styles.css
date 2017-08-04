@@ -1,0 +1,15 @@
+section {
+  font-family: 'Droid Sans', sans-serif;
+}
+
+li {
+  display: inline;
+  list-style-type: none;
+  padding: 5px;
+  float: left;
+}
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
